@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mageto-Nyakoni
-- 👀 I’m interested in anime, fitness, skating and software development!
+- 👀 I’m interested in software development!
 - 🌱 I’m currently learning about data structures!
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me:

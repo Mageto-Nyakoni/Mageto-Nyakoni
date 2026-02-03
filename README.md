@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mageto-Nyakoni
-- 👀 I’m interested in software development!
-- 🌱 I’m currently learning about data structures!
+- 👀 I’m interested in full stack software development!
+- 🌱 I’m currently learning Spring, Kafka, & Microservices
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me:
 - 📧 email:mageto.nya@gmail.com

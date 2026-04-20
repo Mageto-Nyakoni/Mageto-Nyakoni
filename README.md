@@ -1,6 +1,6 @@
 
 # Hey!
-- 🧠 **About me:** I'm a Software Engineer with a focus on full-stack development, performance testing, and data-driven systems. I am passionate about bridging the gap between high-level application logic and hardware-level manufacturing processes—currently pursuing a Master’s in Semiconductor Engineering at Northeastern University.
+- 🧠 **About me:** I'm a Software Engineer with a focus on full-stack development, performance testing, and data-driven systems.
 
 - 🧩 **I'm currently using:** JMeter, React, Java, Python, Pandas, NumPy, PostgreSQL & AWS
 

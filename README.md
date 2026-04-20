@@ -1,11 +1,12 @@
 
 # Hey!
-- 🧠 **About me:** I'm a Software Engineer with a focus on full-stack development and data-driven systems. I am passionate about bridging the gap between high-level application logic and hardware-level manufacturing processes—currently pursuing a Master’s in Semiconductor Engineering at Northeastern University.
+- 🧠 **About me:** I'm a Software Engineer with a focus on full-stack development, performance testing, and data-driven systems. I am passionate about bridging the gap between high-level application logic and hardware-level manufacturing processes—currently pursuing a Master’s in Semiconductor Engineering at Northeastern University.
 
-- 🧩 **I'm currently using:** React, Java, Python, Pandas, NumPy, PostgreSQL & AWS
+- 🧩 **I'm currently using:** JMeter, React, Java, Python, Pandas, NumPy, PostgreSQL & AWS
 
 ### 🛠️ My Toolkit
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JMeter] (https://img.shields.io/badge/jmeter-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

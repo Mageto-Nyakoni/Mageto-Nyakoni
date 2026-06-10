@@ -1,8 +1,8 @@
 
 # Hey!
-- 🧠 **About me:** I'm a Software Engineer with a focus on full-stack development, performance testing, and data-driven systems.
+- 🧠 **About me:** I currently have a focus on full-stack development, performance testing, and data-driven systems.
 
-- 🧩 **I'm currently using:** JMeter, React, Java, Python, Pandas, NumPy, PostgreSQL & AWS
+- 🧩 **I'm currently using:** Performance Engineering (LoadRunner), JMeter, React, Java, Python, Pandas, NumPy, PostgreSQL, AWS & Azure
 
 ### 🛠️ My Toolkit
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

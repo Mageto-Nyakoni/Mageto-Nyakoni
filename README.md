@@ -35,6 +35,6 @@
 
 I am currently open to collaboration and opportunities in full-stack engineering and data-intensive applications. If you want to talk about software architecture, semiconductor manufacturing, or just exchange ideas, reach out!
 
-[LinkedIn](https://linkedin.com/in/mageto-nyakoni)  • [Portfolio](http://mageto.framer.website)
+[LinkedIn](https://linkedin.com/in/mageto-nyakoni)  • [Portfolio](https://mageto-nyakoni-portfolio.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mageto-nyakoni&color=blueviolet)
